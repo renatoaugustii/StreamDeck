@@ -48,7 +48,7 @@ Este trabalho está licenciado sob a licença Creative Commons - Atribuição-Co
 licença. Para ver uma cópia desta licença, visite: https://creativecommons.org/licenses/by-sa/4.0/
 
 <div align="left">
-  <img src="img/licenca.jpg"  width="153" height="56"> 
+  <img src="https://raw.githubusercontent.com/renatoaugustii/StreamDeck/main/img/Licenca.jpg"  width="153" height="56"> 
  </div> 
 
 
