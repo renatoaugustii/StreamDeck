@@ -2,18 +2,19 @@
 
 #### Project Status:  Developing ⚠️
 
-Stream Deck desenvolvido por: MisteRdeck
-Projeto original pode ser visto no site: <a href="https://www.thingiverse.com/thing:4627779">Thingiverse/thing:4627779</a> 
+Projeto inspirado no  <a href="https://www.thingiverse.com/thing:4627779">MisterDeck</a> 
+
+As peças podem ser baixadas pelo link no <a href="https://www.thingiverse.com/thing:4627779">Thingiverse</a> 
 
 <div id="top"></div>
---
+---
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Conteudo</summary>
   <ol>
     <li><a href="#Introdução">Introdução</a></li>
-    <li><a href="#pecas">Peças do projeto</a></li>
+    <li><a href="#Lista-de-materiais">Peças do projeto</a></li>
     <li><a href="#impressao">Configurações de impressão</a></li>
     <li><a href="#solda">Ligações e Solda</a></li>
     <li><a href="#montagem">Montagem</a></li>
@@ -31,7 +32,7 @@ Projeto original pode ser visto no site: <a href="https://www.thingiverse.com/th
   <img src="img/about.jpeg"  width="500" height="332"> 
  </div> 
 -->
-Obrigado por baixar MisteRdeck, o deck de stream MIDI baseado em Arduino. Essas instruções
+Obrigado por baixar, o deck de stream MIDI baseado em Arduino. Essas instruções
 irá guiá-lo através do processo de fabricação e uso do dispositivo. Todos os créditos do projeto são dados para o desenvolvedor <a href="https://www.twitch.tv/mister_ofcl">MisterRdeck</a>, alguns comentário foram adicionados por mim para facilitara montagem e traduzir o processo de construção.
 
 ### O que é necessário?
